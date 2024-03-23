@@ -1,4 +1,8 @@
-r<a href="https://uupload.ir/" target="_blank"><img src="https://s8.uupload.ir/files/profile_header_e0e.png" border="0" alt="آپلود عکس" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F700E7&random=false&width=435&lines=Hello%2C+I+am+a+front-end+programmer" alt="Typing SVG" /></a>
+
+
+<a href="https://uupload.ir/" target="_blank"><img src="https://s8.uupload.ir/files/profile_header_e0e.png" border="0" alt="آپلود عکس" /></a>
 <h1 align="center">Hi 👋, I'm Mahdi</h1>
 <h3 align="center">A web developer</h3>
 
