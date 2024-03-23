@@ -8,8 +8,6 @@
 <h3 align="center">A web developer</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mah09di&label=Profile%20views&color=0e75b6&style=flat" alt="mah09di" /> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **I'm learning**
