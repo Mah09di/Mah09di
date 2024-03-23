@@ -1,5 +1,5 @@
 
-<img align="right" alt="coding" width="400"
+<img align="center" alt="coding" width="auto"
 scr=" https://s8.uupload.ir/files/profile_header_e0e.png">
 <h1 align="center">Hi 👋, I'm Mahdi</h1>
 <h3 align="center">A web developer</h3>
