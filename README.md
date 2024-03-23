@@ -41,7 +41,7 @@
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=-1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai"/>
 
 
 
