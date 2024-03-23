@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mah09di&show_icons=true&locale=en" alt="mah09di" /></p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=-1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=-3"/>
