@@ -1,4 +1,6 @@
 <img    src ="https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet"/>
+<img src="https://uploadkon.ir/uploads/00ee23_24212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F700E7&random=false&width=435&lines=Hello%2C+I+am+a+front-end+programmer" alt="Typing SVG" /></a>
 
