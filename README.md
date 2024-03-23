@@ -30,7 +30,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,sass&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,Tailwind,vue,sass&perline=3)](https://skillicons.dev)
 
 
 
