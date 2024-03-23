@@ -32,7 +32,7 @@
 
 
 
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=js,html,css,react,vue,sass&perline=3)](https://skillicons.dev" /> </a> </p>
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=js,html,css,react,vue,sass&perline=3)]" /> </a> </p>
 
 
 
