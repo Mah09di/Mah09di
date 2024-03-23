@@ -37,15 +37,6 @@
 
 
 
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,sass&perline=3)](https://skillicons.dev)
-
-
-
-
-
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mah09di&show_icons=true&locale=en&layout=compact" alt="mah09di" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mah09di&show_icons=true&locale=en" alt="mah09di" /></p>
