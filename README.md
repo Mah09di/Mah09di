@@ -42,7 +42,7 @@
 
 <br/>
 
-<p>&nbsp;<img align="center" style = "background-color: red;" src="https://github-readme-stats.vercel.app/api?username=mah09di&show_icons=true&theme=onedark" alt="mah09di" /></p>
+<p>&nbsp;<img align="center" style = "background-color: red;" src="https://github-readme-stats.vercel.app/api?username=mah09di&show_icons=true&locale=en" alt="mah09di" /></p>
 
 
 <img  src="https://uploadkon.ir/uploads/851123_24271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif" />
