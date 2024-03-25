@@ -29,9 +29,6 @@
 
 
 
-<a href="https://instagram.com/mahdi.hash.emi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/WhatsApp.svg" alt="mahdi.hash.emi" height="30" width="40" /></a>
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 
