@@ -36,7 +36,7 @@
 
 
 
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=js,html,css,react,vue,sass,nuxt,npm" /> </a> </p>
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=js,html,css,react,vue,sass,nuxt,npm,pnpm" /> </a> </p>
 
 
 
