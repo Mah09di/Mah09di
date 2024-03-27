@@ -13,15 +13,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **I'm learning**
+- 🌱 I’m currently learning
 
-- 📝 I regularly write articles on [about my work](about my work)
-
-- 💬 Ask me about **Are you looking for programming?**
+- 📝 I regularly write articles on [about my work]
 
 - 📫 How to reach me **Mahdi09081@gmail.com**
 
-- 📄 Know about my experiences [Try hard, don't be disappointed](Try hard, don't be disappointed)
+- 📄 Know about my experiences [Try hard, don't be disappointed]
 
 <h3 align="center">Connect with me:</h3>
 <p align="left">
