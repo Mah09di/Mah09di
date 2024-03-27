@@ -24,8 +24,8 @@
 - 📄 Know about my experiences [Try hard, don't be disappointed](Try hard, don't be disappointed)
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://instagram.com/mahdi.hash.emi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahdi.hash.emi" height="30" width="40" /></a>
+<p align="left">
+<a href="https://instagram.com/mahdi.hash.emi" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahdi.hash.emi" height="30" width="40" /></a>
 
 
 
