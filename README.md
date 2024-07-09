@@ -33,7 +33,7 @@
 
 
 
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=js,html,css,vue,sass,tailwindcss,nuxt,npm,pnpm,git,github" /> </a> </p>
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=js,html,css,sass,tailwindcss,react,npm,pnpm,yarn,git,github" /> </a> </p>
 
 
 
