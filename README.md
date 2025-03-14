@@ -1,11 +1,11 @@
-<p align="center">
-  <img src="https://github.com/Mah09di/Mah09di/blob/main/bg.png" alt="Typing effect"  width="300" height="200">
-</p>
 
 
 
 <h1 align="center">Hi 👋, I'm Mahdi</h1>
 <h3 align="center">A web developer</h3>
+<p align="center">
+  <img src="https://github.com/Mah09di/Mah09di/blob/main/bg.png" alt="Typing effect"  width="300" height="200">
+</p>
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
