@@ -1,19 +1,4 @@
-<div align="center">
-  <h2 id="typing-text"></h2>
-</div>
-
-<script>
-  const text = "Welcome to my world of code! 🚀 Enjoy exploring my projects!";
-  let index = 0;
-  function typeEffect() {
-    if (index < text.length) {
-      document.getElementById("typing-text").innerHTML += text.charAt(index);
-      index++;
-      setTimeout(typeEffect, 100);
-    }
-  }
-  document.addEventListener("DOMContentLoaded", typeEffect);
-</script>
+![Alt Text](YOUR_IMAGE_LINK_HERE)
 
 
 <h1 align="center">Hi 👋, I'm Mahdi</h1>
