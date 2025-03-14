@@ -52,7 +52,7 @@
     </td>
   </tr>
   <td>
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mah09di&theme=onedark&show_icons=true&hide_border=true&count_private=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=Mah09di&theme=onedark&show_icons=true&hide_border=true&count_private=true" alt="Mah09di's GitHub Stats" />
   <td/>
 </table>
 
