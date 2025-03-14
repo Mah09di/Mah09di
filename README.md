@@ -27,9 +27,6 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mah09di&bg_color=00008B&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" width="600">
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -43,9 +40,17 @@
 
 
 
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mah09di&bg_color=00008B&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" width="400">
+    </td>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mah09di&bg_color=00008B&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" width="400">
+    </td>
+  </tr>
+</table>
 
 
 <br/>
-
-<p>&nbsp;<img align="center" style = "background-color: red;" src="https://github-readme-stats.vercel.app/api?username=mah09di&show_icons=true&locale=en" alt="mah09di" /></p>
 
