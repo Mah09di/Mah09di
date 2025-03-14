@@ -12,8 +12,12 @@
 *Digital Craftsman (Developer / Programmer)*
 <br /> 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mah09di&bg_color=0000FF&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph">
+</p>
 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+ 
 - 🌱 I’m currently learning
 
 - 📝 I regularly write articles on [about my work]
