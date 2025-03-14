@@ -43,9 +43,6 @@
 <table align="center">
   <tr>
     <td>
-      <div style="background-color: red; padding: 10px; border-radius: 10px; display: inline-block;">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=mah09di&show_icons=true&locale=en" alt="mah09di" />
-      </div>
     </td>
     <td>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mah09di&bg_color=00008B&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" width="400">
