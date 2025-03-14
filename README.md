@@ -11,12 +11,6 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴋɪʀᴀɴ! 
 *Digital Craftsman (Developer / Programmer)*
 <br /> 
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mah09di&bg_color=C6E7FF&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph">
-</p>
-
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
  
 - 🌱 I’m currently learning
@@ -32,6 +26,10 @@
 <a href="https://instagram.com/mahdi.hash.emi" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahdi.hash.emi" height="30" width="40" /></a>
 
 <br/>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mah09di&bg_color=00008B&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" width="600">
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
