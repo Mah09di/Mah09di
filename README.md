@@ -33,6 +33,9 @@
 
 
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mah09di&theme=onedark&hide_border=true" alt="GitHub Streak Stats">
+</p>
 
 
 <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=js,html,css,sass,tailwindcss,react,npm,pnpm,yarn,git,github" /> </a> </p>
