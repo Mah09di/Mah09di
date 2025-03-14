@@ -51,6 +51,9 @@
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mah09di&bg_color=00008B&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" width="400">
     </td>
   </tr>
+  <td>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mah09di&theme=onedark&show_icons=true&hide_border=true&count_private=true)
+  <td/>
 </table>
 
 
