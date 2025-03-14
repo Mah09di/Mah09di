@@ -1,4 +1,7 @@
-![Alt Text](YOUR_IMAGE_LINK_HERE)
+<p align="center">
+  <img src="[url=https://uploadkon.ir/uploads/a09c14_25bg.png][img]https://uploadkon.ir/uploads/thumbs/a09c14_25bg.png[/img][/url]" alt="Typing effect">
+</p>
+
 
 
 <h1 align="center">Hi 👋, I'm Mahdi</h1>
