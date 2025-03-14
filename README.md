@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Mah09di/Mah09di/blob/main/bg.png" alt="Typing effect">
+  <img src="https://github.com/Mah09di/Mah09di/blob/main/bg.png" alt="Typing effect"  width="300" height="200">
 </p>
 
 
