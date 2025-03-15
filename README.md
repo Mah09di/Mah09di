@@ -34,8 +34,6 @@
 <table align="center">
   <tr>
     <td>
-    </td>
-    <td>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mah09di&bg_color=00008B&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" width="400">
     </td>
   </tr>
