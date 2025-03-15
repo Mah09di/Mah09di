@@ -1,0 +1,27 @@
+name: Update GitHub Streak Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # اجرا هر روز ساعت ۰۰:۰۰ UTC
+  push:
+    branches:
+      - main
+
+jobs:
+  update-graph:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update streak graph
+        run: |
+          curl -o streak_graph.png "https://abinbn.github.io/Github_Streaker/?grid=کد_شخصی_تو&start=تاریخ_شروع"
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add streak_graph.png
+          git commit -m "Updated streak graph"
+          git push
