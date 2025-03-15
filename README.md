@@ -52,10 +52,6 @@
 <img src="./gmail.png" width=50 height=50 alt="Mahdi09081@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://x.com/" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="" style="margin-bottom: 5px;" />
-</a>
-
 <a href="https://www.instagram.com/" target="_blank">
 <img src="./instagram.png" width=50 height=50 alt="" style="margin-bottom: 5px;" />
 </a>
