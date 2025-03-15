@@ -45,4 +45,28 @@
 
 <br/>
 
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+  
+<a href="mailto:kirannaragund197@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="Mahdi09081@gmail.com" style="margin-bottom: 5px;" />
+</a>
 
+<a href="https://x.com/" target="_blank">
+<img src="./twitter.png" width=50 height=50 alt="" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.githubcom/Mah09di" target="_blank">
+<img src="./github.png" width=50 height=50 alt="Mah09di" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="" style="margin-bottom: 5px;" />
+</a>
+
+</div>
+<br/>
