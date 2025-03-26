@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [about my work]
 
-- 📫 How to reach me **Mahdi09081@gmail.com**
+- 📫 How to reach me **Mahdi09081@gmail.com*
 
 - 📄 Know about my experiences [Try hard, don't be disappointed]
 
