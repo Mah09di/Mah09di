@@ -48,14 +48,28 @@ Passionate Full-Stack Developer | JavaScript, React, Node.js, Python & R
 ## 🛠️ Tech Stack
 
 <p align="center">
+
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,git,github,vscode&theme=dark&perline=4" />
+
+    <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,r,mongodb,git,github,vscode&theme=dark" />
+
   </a>
+
 </p>
 
+
+
 <p align="center">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+
+  <sub>
+
+    JavaScript • React • Node.js • Python • R • MongoDB • Git • GitHub • VS Code
+
+  </sub>
+
 </p>
+
+
 
 ---
 
