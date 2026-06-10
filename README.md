@@ -5,8 +5,9 @@ Full-Stack Developer | JavaScript • React • Node.js • Python • R
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=4361EE&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%26+Node.js+Developer;Python+%26+R+Enthusiast;Building+Scalable+Web+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=4361EE&center=true&vCenter=true&width=900&lines=SOC+Analyst+%7C+Cybersecurity+Enthusiast;Web+Application+Security;Mobile+Application+Security;Threat+Detection+%26+Incident+Response;Vulnerability+Assessment+%26+Penetration+Testing;Always+Learning+Always+Securing" />
 </p>
+
 
 <p align="center">
   <img width="350" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
