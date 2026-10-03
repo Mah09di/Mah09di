@@ -19,7 +19,7 @@
 ### 🛡️ Operator Profile
 
 ```text
-OPERATOR   : Mahdi Hashemi Asl
+OPERATOR   : Mahdi
 ROLE       : SOC Analyst | Cybersecurity Enthusiast
 SECONDARY  : Full-Stack Developer (JavaScript · React · Node.js · Python · R)
 CONTACT    : Mahdi09081@gmail.com
